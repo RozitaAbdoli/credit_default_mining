@@ -12,7 +12,7 @@ Build a ML model to predict which customers will default on their credit card pa
       
     - The cleaned data set is saved as **v2_credit_default.csv**
       
-- Panda's profiling report
+- Panda's profiling report: Open in Colab to see the HTML rendering correctly
 - Distributions: Histogram of distribution, mean, median, and mode
 - Outliers: Box plots showing outliers
 ### Modeling and Validation
