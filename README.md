@@ -3,8 +3,9 @@ Risk management is one of the fastest growing areas in the financial industry. F
 
 The tentative stages of the project can be summarized as data preparation, exploratory data analysis (EDA), feature engineering, feature selection, modeling, and evaluation. However, this is an iterative process and these stages are not to suggest a linear, one-way process. Rather, different stages are interconnected and one needs to go back and forth between stages during the lifecycle of the data science project. What follows is the repository content outline following the stages listed above.
 ## Repository Content Outline:
+This repository contains a set of technical reports in Python/JupyterNotebook format that are listed below. The compilation of the technical reports in PDF format can be found in the folder named 'PDF'. This repository also contains the original dataset named 'credit_default.xls', and the cleaned dataset called '**v2_credit_default.csv**'.
 ### 1) Data Understanding, Data Cleaning, and Exploratory Data Analysis
-- **DataCleaning+EDA**: The cleaned dataset is saved as **v2_credit_default.csv**.    
+- **DataCleaning+EDA**  
 - **EDA_Panda's_profiling_report**: Open in Colab to see the HTML rendering correctly.
 - **EDA_frequent_patterns**
 ### 2) Feature Engineering (FE), and Feature Selection (FS)
