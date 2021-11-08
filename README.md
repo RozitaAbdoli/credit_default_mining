@@ -16,5 +16,6 @@ This repository contains a set of technical reports in Python/JupyterNotebook fo
 - **Logistic_regression** : Tuning the logistic regression hyperparameters using Grid Search cross-validation, and running the optimized LR model with selected features from XGBoost.
 - **SVM**
 - **XGBoost**
+- **Model_comparison**: This notebook compares the performance of multiple ML algorithms, while the other notebooks go into more details about individual algorithms, such as hyperparameters tuning.
 
 
