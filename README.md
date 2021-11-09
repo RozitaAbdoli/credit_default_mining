@@ -5,8 +5,8 @@ The tentative stages of the project can be summarized as data preparation, explo
 ## Repository Content Outline:
 This repository contains a set of technical reports in Python/JupyterNotebook format that are listed below. The compilation of the technical reports in PDF format can be found in the folder named 'PDF'. This repository also contains the original dataset named 'credit_default.xls', and the cleaned dataset called '**v2_credit_default.csv**'.
 ### 1) Data Understanding, Data Cleaning, and Exploratory Data Analysis
-- **DataCleaning+EDA**  
-- **EDA_Panda's_profiling_report**: Open in Colab to see the HTML rendering correctly.
+- [**DataCleaning+EDA**](https://github.com/RozitaAbdoli/credit_default_mining/blob/main/DataCleaning%2BEDA.ipynb)  
+- [**EDA_Panda's_profiling_report**](https://github.com/RozitaAbdoli/credit_default_mining/blob/main/EDA_Panda's_profiling_report.ipynb): Open in Colab to view the HTML rendering correctly, or see the noninteractive pdf format [here](https://github.com/RozitaAbdoli/credit_default_mining/blob/main/PDF/Pandas_profiling_report.pdf).
 - **EDA_frequent_patterns**
 ### 2) Feature Engineering (FE), and Feature Selection (FS)
 - **FE_scaling+balancing**
