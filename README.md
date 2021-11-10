@@ -7,15 +7,15 @@ This repository contains a set of technical reports in Python/JupyterNotebook fo
 ### 1) Data Understanding, Data Cleaning, and Exploratory Data Analysis
 - [**DataCleaning+EDA**](https://github.com/RozitaAbdoli/credit_default_mining/blob/main/DataCleaning%2BEDA.ipynb)  
 - [**EDA_Panda's_profiling_report**](https://github.com/RozitaAbdoli/credit_default_mining/blob/main/EDA_Panda's_profiling_report.ipynb): Open in Colab to view the HTML rendering correctly, or see the noninteractive pdf format [here](https://github.com/RozitaAbdoli/credit_default_mining/blob/main/PDF/Pandas_profiling_report.pdf).
-- **EDA_frequent_patterns**
+- [**EDA_frequent_patterns**](https://github.com/RozitaAbdoli/credit_default_mining/blob/main/EDA_frequent_patterns.ipynb)
 ### 2) Feature Engineering (FE), and Feature Selection (FS)
-- **FE_scaling+balancing**
-- **FE_normaliza+remove_outliers**
-- **FS_correlations**: Filter method of feature selection. Embbeded methods of feature selection are explored in the next section such as using XGBooster classifier to rank feature importance based on weight (number of times the feature appears in a tree ), or gain (average gain of splits that use the feature). 
+- [**FE_scaling+balancing**](https://github.com/RozitaAbdoli/credit_default_mining/blob/main/FE_scaling%2Bbalancing.ipynb)
+- [**FE_normaliza+remove_outliers**](https://github.com/RozitaAbdoli/credit_default_mining/blob/main/FE_normaliza%2Bremove_outliers.ipynb)
+- [**FS_correlations**](https://github.com/RozitaAbdoli/credit_default_mining/blob/main/FS_correlations.ipynb): Filter method of feature selection. Embbeded methods of feature selection are explored in the next section such as using XGBooster classifier to rank feature importance based on weight (number of times the feature appears in a tree ), or gain (average gain of splits that use the feature). 
 ### 3) Modeling, and Evaluation
-- **Logistic_regression** : Tuning the logistic regression hyperparameters using Grid Search cross-validation, and running the optimized LR model with selected features from XGBoost.
-- **SVM**
-- **XGBoost**
-- **Model_comparison**: This notebook compares the performance of multiple ML algorithms, while the other notebooks go into more details about individual algorithms, such as hyperparameters tuning.
+- [**Logistic_regression**](https://github.com/RozitaAbdoli/credit_default_mining/blob/main/Logistic_regression.ipynb) : Tuning the logistic regression hyperparameters using Grid Search cross-validation, and running the optimized LR model with selected features from XGBoost.
+- [**SVM**](https://github.com/RozitaAbdoli/credit_default_mining/blob/main/SVM.ipynb)
+- [**XGBoost**](https://github.com/RozitaAbdoli/credit_default_mining/blob/main/XGBoost.ipynb)
+- [**Model_comparison**](https://github.com/RozitaAbdoli/credit_default_mining/blob/main/Model_comparison.ipynb): This notebook compares the performance of multiple ML algorithms, while the other notebooks go into more details about individual algorithms, such as hyperparameters tuning.
 
 
