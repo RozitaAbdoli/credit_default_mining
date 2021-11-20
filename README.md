@@ -13,7 +13,8 @@ This repository contains a set of technical reports in Python/JupyterNotebook fo
 - [**FE_normalize+remove_outliers**](https://github.com/RozitaAbdoli/credit_default_mining/blob/main/FE_normalize%2Bremove_outliers.ipynb)
 - [**FS_correlations**](https://github.com/RozitaAbdoli/credit_default_mining/blob/main/FS_correlations.ipynb): Filter method of feature selection. Embbeded methods of feature selection are explored in the next section such as using XGBooster classifier to rank feature importance based on weight (number of times the feature appears in a tree ), or gain (average gain of splits that use the feature). 
 ### 3) Modeling and Evaluation
-- [**Model_comparison**](https://github.com/RozitaAbdoli/credit_default_mining/blob/main/Model_comparison.ipynb): This notebook compares the performance of multiple ML algorithms, while the other notebooks go into more details about individual algorithms, such as hyperparameters tuning.
+- [**Model_comparison**](https://github.com/RozitaAbdoli/credit_default_mining/blob/main/Model_comparison.ipynb): This notebook compares the performance of multiple ML algorithms, while some of the other notebooks go into more details about individual algorithms, such as hyperparameters tuning.
+- [**Brier_scores**](https://github.com/RozitaAbdoli/credit_default_mining/blob/main/Brier_scores.ipynb): This notebook compares the performance of multiple ML models by cross-validation using the Brier scores. It compliments the "Model_comparison" notebook.
 - [**Logistic_regression**](https://github.com/RozitaAbdoli/credit_default_mining/blob/main/Logistic_regression.ipynb) : Tuning the logistic regression hyperparameters using Grid Search cross-validation, and running the optimized LR model with selected features from XGBoost.
 - [**SVM**](https://github.com/RozitaAbdoli/credit_default_mining/blob/main/SVM.ipynb)
 - [**XGBoost**](https://github.com/RozitaAbdoli/credit_default_mining/blob/main/XGBoost.ipynb)
