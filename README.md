@@ -15,6 +15,7 @@ This repository contains a set of technical reports in Python/JupyterNotebook fo
 ### 3) Modeling and Evaluation
 - [**Model_comparison**](https://github.com/RozitaAbdoli/credit_default_mining/blob/main/Model_comparison.ipynb): This notebook compares the performance of multiple ML algorithms, while some of the other notebooks go into more details about individual algorithms, such as hyperparameters tuning.
 - [**Brier_scores**](https://github.com/RozitaAbdoli/credit_default_mining/blob/main/Brier_scores.ipynb): This notebook compares the performance of multiple ML models by cross-validation using the Brier scores. It compliments the "Model_comparison" notebook.
+- [**Stats_tests**](https://github.com/RozitaAbdoli/credit_default_mining/blob/main/Stats_tests.ipynb): Results of Kruskal–Wallis test followed by Dunn's post hoc test. The corresponding p-values for each evaluation metric are reported.
 - [**Logistic_regression**](https://github.com/RozitaAbdoli/credit_default_mining/blob/main/Logistic_regression.ipynb) : Tuning the logistic regression hyperparameters using Grid Search cross-validation, and running the optimized LR model with selected features from XGBoost.
 - [**SVM**](https://github.com/RozitaAbdoli/credit_default_mining/blob/main/SVM.ipynb)
 - [**XGBoost**](https://github.com/RozitaAbdoli/credit_default_mining/blob/main/XGBoost.ipynb)
